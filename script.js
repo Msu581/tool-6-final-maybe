@@ -31,6 +31,7 @@ const CONFIG = {
     { id: "SuperAdmin123", password: "Medhavi@1238", display: "SuperAdmin123" },
     { id: "mahi", password: "Medhavi@128", display: "Mahi" },
     { id: "shubham", password: "Medhavi@128", display: "Shubham" }
+     { id: "gopal.cm@msu.edu.in", password: "Medhavi@128", display: "Gopal" }
     // add more team members here, same shape:
     // { id: "Exam02", password: "change-me", display: "Exam02" }
   ],
